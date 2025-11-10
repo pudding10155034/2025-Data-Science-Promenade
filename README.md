@@ -8,11 +8,12 @@
 
 ```
 .
-├─ data_preprocessing.ipynb        # 資料清理與前處理
-├─ data_analysis.ipynb             # 資料分析
-├─ digital_data_analysis.R         # 資料分析
-├─ working_population_health_data.csv
-├─ 113年數位近用調查/               # 原始資料與說明文件
+├─ data_preprocessing.ipynb              # 資料清理與前處理
+├─ data_analysis.ipynb                   # 資料分析
+├─ digital_data_analysis.R               # 資料分析
+├─ working_population_health_data.csv    # 清理後的的資料集
+├─ 報告.pdf                              
+├─ 113年數位近用調查/                     # 原始資料與說明文件
 │  ├─ data113_1.csv
 │  ├─ data113_2.csv
 │  ├─ ques113_1.pdf / ques113_2.pdf
