@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## 快速再現
 
 1) 先執行 `data_preprocessing.ipynb` 完成資料清理/彙整。  
-2) 再執行 `data_analysis.ipynb` 產出圖表與統計摘要。  
+2) 再執行 `data_analysis.ipynb` 與 `digital_data_analysis.R` 產出圖表與統計分析。  
 3) 產出圖檔將位於專案根目錄。
 
 ## 分析重點（示例）
